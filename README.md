@@ -1,6 +1,6 @@
 # 🎓 Pronoob – Simplifiez la gestion scolaire avec Python 
 
-Bienvenue sur le dépôt officiel de **Pronoob**, une version simplifiée de Pronote développée en Python. Ce projet, créé par deux élèves passionnés de NSI (Numérique et Sciences Informatiques), a pour objectif de proposer une solution facile à utiliser pour la gestion des emplois du temps, des notes et des devoirs des élèves.
+Bienvenue sur le git officiel de **Pronoob**, une version simplifiée de Pronote développée en Python. Ce projet, créé par deux élèves passionnés de NSI (Numérique et Sciences Informatiques), a pour objectif de proposer une solution facile à utiliser pour la gestion des emplois du temps, des notes et des devoirs des élèves.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/84c903cc-2d27-467c-83ce-449d20f8b818" alt="Pronoob Logo" width="200">
@@ -8,25 +8,36 @@ Bienvenue sur le dépôt officiel de **Pronoob**, une version simplifiée de Pro
 
 ---
 
-## 🌟 Fonctionnalités principales
+## **🌟** **Fonctionnalités principales**
+
 Pronoob est conçu pour offrir trois espaces distincts, chacun adapté aux besoins spécifiques des utilisateurs :
 
-### 🎯 1. **Espace Élève**
-- Visualiser les notes obtenues.
-- Consulter les devoirs à rendre.
-- Explorer l'emploi du temps.
-- Vérifier les éventuelles punitions (et s'assurer de n'en avoir aucune !).
+### 🏫 **Pour l'administration**
+| Fonctionnalités                 | Description                                         |
+|---------------------------------|-----------------------------------------------------|
+| 👥 Visualiser les listes d'élèves | Consultez la liste complète des élèves.            |
+| 🧑‍🏫 Visualiser les listes de professeurs | Consultez la liste complète des professeurs.       |
+| 🛠️ Consultation et modification des élèves | Gérez les informations des élèves facilement.      |
+| 🔧 Consultation et modification des professeurs | Gérez les informations des professeurs facilement. |
+---
 
-### 👩‍🏫 2. **Espace Professeur**
-- Gérer les informations des élèves.
-- Ajouter ou consulter les absences.
-- Créer ou modifier les devoirs.
-- Accéder facilement à la liste des élèves de leurs classes.
+### 👩‍🏫 **Pour les professeurs**
+| Fonctionnalités                 | Description                                         |
+|---------------------------------|-----------------------------------------------------|
+| 👨‍🎓 Visualiser la liste des élèves | Consultez la liste des élèves de vos classes.      |
+| ✏️ Modifier les informations des élèves | Modifiez les informations des élèves en cas de besoin. |
+| 📄 Voir/Ajouter une absence      | Enregistrez ou consultez les absences des élèves.   |
+| 📚 Voir/Ajouter un devoir        | Ajoutez des devoirs pour vos classes ou consultez ceux existants. |
 
-### 🏫 3. **Espace Direction**
-- Gestion centralisée des élèves et des professeurs.
-- Modification des emplois du temps, des notes et des punitions.
-- Ajout ou mise à jour des données administratives.
+---
+
+### 🧑‍🎓 **Pour les élèves**
+| Fonctionnalités                 | Description                                         |
+|---------------------------------|-----------------------------------------------------|
+| 🔍 Visualiser ses notes          | Accédez facilement à toutes vos notes.             |
+| 📝 Visualiser ses devoirs        | Consultez les devoirs assignés par vos professeurs.|
+| 📅 Visualiser son emploi du temps| Vérifiez votre emploi du temps détaillé.           |
+| ❌ Visualiser ses punitions      | Consultez vos sanctions et remarques éventuelles.  |
 
 ---
 
@@ -37,12 +48,12 @@ Découvrez Pronoob en action ! Voici un aperçu en GIF de son interface et de s
 
 ---
 
-## 📚 Documentation technique
+## 📚 Documentation 
 
 ### Dictionnaires principaux
 Voici une description détaillée des structures de données utilisées dans **Pronoob**. Ces dictionnaires constituent l'épine dorsale du projet :
 
-#### 1. **Élèves (`eleves`)**
+#### 1. **Élèves** **(`eleves`)**
 Ce dictionnaire regroupe les informations des élèves : classe, notes, emploi du temps, etc.
 
 ```python
