@@ -1,8 +1,4 @@
-Voici un post structuré pour votre projet "Pronoob" à publier sur GitHub. Ce post inclut une présentation détaillée, une démonstration par GIF, la description des menus principaux, et une documentation des dictionnaires.
-
----
-
-# 🎓 Pronoob – Simplifiez la gestion scolaire avec Python 🎓
+# 🎓 Pronoob – Simplifiez la gestion scolaire avec Python 
 
 Bienvenue sur le dépôt officiel de **Pronoob**, une version simplifiée de Pronote développée en Python. Ce projet, créé par deux élèves passionnés de NSI (Numérique et Sciences Informatiques), a pour objectif de proposer une solution facile à utiliser pour la gestion des emplois du temps, des notes et des devoirs des élèves.
 
