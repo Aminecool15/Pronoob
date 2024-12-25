@@ -59,5 +59,3 @@ Ce projet a été réalisé par :
 
 
 ---
-
-**Pronoob** v2.0 continue d'évoluer et reste fidèle à son objectif : offrir un outil simple mais puissant pour la gestion scolaire. Profitez des nouvelles fonctionnalités et gérez vos classes avec plus de facilité que jamais !
