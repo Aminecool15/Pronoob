@@ -43,14 +43,38 @@ def ajout_emploi_temps(nom):
 ```python
 def ajouter_absence():
     choix = input("Appuyer sur 1 pour Consulter ou sur 2 pour Modifier: ")
+    
     if choix == "1":
         classe = input("Entrez la classe : ")
-        # Affichage des absences existantes
-        # ...
+        # Supposons que nous avons une liste d'absences par classe sous forme d'un dictionnaire
+        absences = {
+            "1A": ["John Doe", "Jane Smith"],
+            "2B": ["Paul Dupont", "Marie Martin"]
+        }
+        
+        if classe in absences:
+            print(f"Absences pour la classe {classe} : {', '.join(absences[classe])}")
+        else:
+            print(f"Aucune absence enregistrée pour la classe {classe}.")
+    
     if choix == "2":
         classe = input("Entrez la classe : ")
-        # Ajout d'une nouvelle absence
-        # ...
+        eleve = input("Entrez le nom de l'élève à ajouter : ")
+        
+        # Liste d'absences pour chaque classe
+        absences = {
+            "1A": ["John Doe", "Jane Smith"],
+            "2B": ["Paul Dupont", "Marie Martin"]
+        }
+        
+        if classe in absences:
+            absences[classe].append(eleve)
+            print(f"Absence de {eleve} ajoutée à la classe {classe}.")
+        else:
+            absences[classe] = [eleve]
+            print(f"La classe {classe} n'existait pas. Elle a été créée et {eleve} a été ajouté.")
+
+
 ```
 
 **☝️ Cette fonction permet de gérer les absences des élèves, en offrant une option pour consulter les absences existantes ou en ajouter de nouvelles.**
@@ -67,8 +91,17 @@ Ce projet a été réalisé par :
 
 ## 📷 **Screenshots**
 
-![image](https://github.com/user-attachments/assets/91c7d585-29bc-4cf1-b359-9401ae111475)
+<p>
+  <img src="https://github.com/user-attachments/assets/a118636a-ec91-4e18-882b-5fd7e028e6a9" alt="Image 1" width="400" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://github.com/user-attachments/assets/eddb11e3-5a8b-4a8b-94fc-b85b2ea104da" alt="Image 2" width="400" />
+</p>
+
+
+
+
+
+
 
 ---
 
-La version 3.0 de **Pronoob** vous offre plus de contrôle et de sécurité pour gérer toutes les informations liées aux élèves et aux professeurs. C'est une version encore plus complète et adaptée aux besoins de gestion scolaire.
