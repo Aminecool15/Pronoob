@@ -91,11 +91,15 @@ Ce projet a été réalisé par :
 
 ## 📷 **Screenshots**
 
-<p>
+<p style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/a118636a-ec91-4e18-882b-5fd7e028e6a9" alt="Image 1" width="400" />
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👇 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <br />
+  <span style="display: block; font-size: 24px;">👇</span> 
+  <span style="display: block; font-size: 24px;">👈</span> 
+  <br />
   <img src="https://github.com/user-attachments/assets/eddb11e3-5a8b-4a8b-94fc-b85b2ea104da" alt="Image 2" width="400" />
 </p>
+
 
 
 
