@@ -92,12 +92,10 @@ Ce projet a été réalisé par :
 ## 📷 **Screenshots**
 
 <p>
-  <img src="https://github.com/user-attachments/assets/a118636a-ec91-4e18-882b-5fd7e028e6a9" alt="Image 1" width="400" />
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://github.com/user-attachments/assets/eddb11e3-5a8b-4a8b-94fc-b85b2ea104da" alt="Image 2" width="400" />
+  <img src="https://github.com/user-attachments/assets/a118636a-ec91-4e18-882b-5fd7e028e6a9" alt="Image 1" width="300" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://github.com/user-attachments/assets/eddb11e3-5a8b-4a8b-94fc-b85b2ea104da" alt="Image 2" width="300" />
 </p>
-
-
 
 
 
