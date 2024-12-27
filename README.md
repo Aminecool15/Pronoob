@@ -42,7 +42,7 @@ Pronoob est conçu pour offrir trois espaces distincts, chacun adapté aux besoi
 ---
 
 ## 🎥 Démonstration rapide
-Découvrez Pronoob en action ! Voici un aperçu en GIF de son interface et de ses fonctionnalités principales :
+Voici un aperçu en GIF de son interface et de ses fonctionnalités principales :
 
 ![gifdemonstration](https://github.com/user-attachments/assets/e82087f3-8824-42e6-ba0d-b6570dba5e21)
 
