@@ -137,6 +137,6 @@ Les contributions sont les bienvenues ! Si vous avez des idées pour améliorer
 ## 🏅 Crédits
 Ce projet a été créé par :
 - [Ez²](https://github.com/Aminecool15)
-- [Doraj](https://github.com/D0rAj)
+- [Doraj](https://github.com/D0rAj)   <p align="right">(**en espérant avoir 20/20 :D**)</p>
 
 
